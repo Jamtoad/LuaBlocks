@@ -1,0 +1,12 @@
+{
+  "name": "LuaBlocks",
+  "tree": {
+    "$className": "DataModel",
+    
+    "ReplicatedStorage": {
+      "LuaBlocks": {
+        "$path": "Data"
+      }
+    }
+  }
+}
